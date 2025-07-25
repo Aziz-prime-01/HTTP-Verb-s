@@ -8,15 +8,7 @@ HTTP verb'lar – bu **HTTP so‘rovining niyatini** bildiruvchi komandalar. Ula
 
 ---
 
-## 💡 Nima uchun HTTP verb’lar muhim?
 
-HTTP verb’lar yordamida siz quyidagilarni aniq belgilaysiz:
-
-- Siz **nimani qilishni xohlaysiz**: o‘qishmi, yaratishmi, yangilashmi yoki o‘chirishmi
-- **Server qanday javob berishi** kerak
-- **Client-server arxitekturasi**da har bir verb o‘z roli va qoidasiga ega
-
----
 
 ## 🎯 **Bu nima uchun kerak?**  
 HTTP verb’lar **veb ilovalarning asosiy amallarini boshqarish** uchun kerak. Ular orqali RESTful API’lar orqali **ma’lumotlar bilan ishlash (CRUD)** bajariladi:
